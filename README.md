@@ -1,2 +1,2 @@
 # access
-Get access with qr codes
+This is just a test.
